@@ -515,6 +515,14 @@ p{
     color: #2E2F42;
 }
 
+.modal-div{
+    position: relative;
+}
+
+.modal-icons{
+    position: absolute;
+}
+
 /* Buttons */
 .main-button {
     background-color: #4D5AE5;
