@@ -502,10 +502,12 @@ p{
 }
 
 .modal-form-desc{
+    display: block;
     font-weight: 400;
     font-size: 12px;
     line-height: 1.1;
     letter-spacing: 0.04em;
+    margin-bottom: 4px;
     color: #8E8F99;
 }
 
