@@ -599,6 +599,7 @@ p{
     font-size: 12px;
     line-height: 1.1;
     letter-spacing: 0.04em;
+    margin-bottom: 24px;
     color: #8E8F99;
 }
 
@@ -613,6 +614,7 @@ p{
 
 .modal-btn{
     display: block;
+    text-align: center;
     background-color: #4D5AE5;
     font-family: "Roboto",
             sans-serif;
