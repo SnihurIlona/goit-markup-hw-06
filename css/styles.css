@@ -591,6 +591,7 @@ p{
     display: block;
     width: 16px;
     height: 16px;
+    margin-right: 8px;
     cursor: pointer;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 2px;
@@ -611,6 +612,7 @@ p{
 
 .modal-form-policy{
     display: flex;
+    align-items: center;
     font-weight: 400;
     font-size: 12px;
     line-height: 1.1;
