@@ -501,6 +501,42 @@
             <use href="./images/icons.svg/sprite.svg#icon-close-btn"></use>
           </svg>
         </button>
+        <!-- Modal Form -->
+        <form class="modal-form">
+          <p>Leave your contacts and we will call you back</p>
+          <label class="modal-text-form">
+            <span class="modal-form-desc">Name</span>
+            <input type="text" class="modal-field-form" name="user_name" />
+          </label>
+
+          <label class="modal-text-form">
+            <span class="modal-form-desc">Phone</span>
+            <input type="tel" class="modal-field-form" name="user_phone" />
+          </label>
+
+          <label class="modal-text-form">
+            <span class="modal-form-desc">Email</span>
+            <input type="email" class="modal-field-form" name="user_email" />
+          </label>
+
+          <label class="modal-text-form">
+            <span class="modal-form-desc">Comment</span>
+            <textarea
+              name=""
+              id=""
+              class="modal-form-comment"
+              placeholder="Text input"
+            ></textarea>
+          </label>
+
+          <input id="user-policy" type="checkbox" class="modal-form-check" />
+          <label for="user-policy" class="modal-form-policy"
+            >I accept the terms and conditions of the
+            <a href="">Privacy Policy</a>
+          </label>
+
+          <button type="submit" class="modal-button">Send</button>
+        </form>
       </div>
     </div>
     <script src="./js/modal.js"></script>
