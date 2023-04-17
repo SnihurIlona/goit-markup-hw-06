@@ -503,6 +503,7 @@ p{
 
 .modal-field-form{
     display: block;
+    width: 100%;
 }
 
 .modal-header{
