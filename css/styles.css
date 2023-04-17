@@ -521,6 +521,8 @@ p{
 
 .modal-svg{
     position: absolute;
+    left: 0;
+    top: 0;
 }
 
 /* Buttons */
