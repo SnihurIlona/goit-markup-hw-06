@@ -609,6 +609,9 @@ p{
     appearance: none;
 }
 
+.checkbox-icon{
+    display: flex;
+}
 
 .modal-form-policy{
     font-weight: 400;
