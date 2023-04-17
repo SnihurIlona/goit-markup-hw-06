@@ -586,12 +586,11 @@ p{
     border-color: var(--hover-focus-color);
 }
 
-.modal-form-check{
+.modal-form-policy::before{
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 2px;
-    background-color: #404BBF;
 }
 
 .modal-form-policy{
