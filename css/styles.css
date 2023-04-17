@@ -594,6 +594,23 @@ p{
     background-color: #404BBF;
 }
 
+.modal-form-policy{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.1;
+    letter-spacing: 0.04em;
+    color: #8E8F99;
+}
+
+.modal-text-link{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.3;
+    letter-spacing: 0.04em;
+    text-decoration-line: underline;
+    color: #4D5AE5;
+}
+
 .modal-btn{
     display: block;
 }
