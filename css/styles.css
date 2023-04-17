@@ -491,8 +491,14 @@ p{
 
 /* Modal Form */
 
+.modal-text-form{
+    display: flex;
+    flex-direction: column;
+}
 
-
+.modal-field-form{
+    display: block;
+}
 
 
 /* Buttons */
