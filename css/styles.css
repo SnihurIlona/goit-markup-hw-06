@@ -530,6 +530,10 @@ p{
     border-color: var(--hover-focus-color);
 }
 
+.modal-field-form:focus + .modal-icons{
+    fill: var(--hover-focus-color);
+}
+
 .modal-header{
     font-weight: 500;
     font-size: 16px;
