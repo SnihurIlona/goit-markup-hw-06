@@ -586,6 +586,14 @@ p{
     border-color: var(--hover-focus-color);
 }
 
+.modal-form-check{
+    width: 16px;
+    height: 16px;
+    border: 1px solid rgba(46, 47, 66, 0.4);
+    border-radius: 2px;
+    background-color: var(--hover-focus-color);
+}
+
 .modal-btn{
     display: block;
 }
