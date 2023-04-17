@@ -598,8 +598,13 @@ p{
 
 .modal-form-check:checked + .modal-form-policy::before{
     background-color: #404BBF;
-    image: url(../images/icons.svg/sprite.svg#icon-check);
+    z-index: 1;
 }
+.modal-form-check:checked+.modal-form-policy::before {
+    background-image: url(../images/icons.svg/sprite.svg#icon-check);
+    z-index: 2;
+}
+
 
 .modal-form-policy{
     font-weight: 400;
