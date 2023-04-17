@@ -501,6 +501,14 @@ p{
     margin-bottom: 8px;
 }
 
+.modal-form-desc{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.1;
+    letter-spacing: 0.04em;
+    color: #8E8F99;
+}
+
 .modal-field-form{
     display: block;
     width: 100%;
