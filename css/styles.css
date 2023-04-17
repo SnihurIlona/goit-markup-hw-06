@@ -498,6 +498,7 @@ p{
 .modal-text-form{
     display: flex;
     flex-direction: column;
+    margin-bottom: 8px;
 }
 
 .modal-field-form{
