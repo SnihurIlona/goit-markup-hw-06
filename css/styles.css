@@ -596,13 +596,10 @@ p{
     border-radius: 2px;
 }
 
-.modal-form-check:checked + .modal-form-policy::before{
-    background-color: #404BBF;
-    z-index: 1;
-}
-.modal-form-check:checked+.modal-form-policy::before {
-    background-image: url(../images/icons.svg/sprite.svg#icon-check);
-    z-index: 2;
+.modal-form-check{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
 }
 
 
