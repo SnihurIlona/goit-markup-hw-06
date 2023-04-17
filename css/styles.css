@@ -3,6 +3,7 @@
     --title-text-color: #2E2F42;
     --caption-text-color: #FFFFFF;
     --border-portfolio-color: #E7E9FC;
+    --hover-focus-color: #4D5AE5;
 }
 
 body {
@@ -522,6 +523,11 @@ p{
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
     color: black;
+}
+
+.modal-field-form:focus{
+    outline: none;
+    border-color: var(--hover-focus-color);
 }
 
 .modal-header{
