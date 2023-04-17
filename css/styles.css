@@ -598,7 +598,7 @@ p{
 
 .modal-form-check:checked + .modal-form-policy::before{
     background-color: #404BBF;
-    background-image: url(../images/icons.svg/sprite.svg);
+    background-image: url(../images/check.svg);
     background-size: contain;
     background-origin: border-box;
 }
