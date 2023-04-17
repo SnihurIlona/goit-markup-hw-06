@@ -504,6 +504,16 @@ p{
     display: block;
 }
 
+.modal-header{
+    width: 360px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
 
 /* Buttons */
 .main-button {
