@@ -596,6 +596,10 @@ p{
     border-radius: 2px;
 }
 
+.modal-form-check:checked + .modal-form-policy::before{
+    background-color: #404BBF;
+}
+
 .modal-form-check{
     -webkit-appearance: none;
     -moz-appearance: none;
