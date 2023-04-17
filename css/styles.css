@@ -593,6 +593,10 @@ p{
     border-radius: 2px;
 }
 
+.modal-form-check:checked + .modal-form-policy::before{
+    background-color: #404BBF;
+}
+
 .modal-form-policy{
     font-weight: 400;
     font-size: 12px;
