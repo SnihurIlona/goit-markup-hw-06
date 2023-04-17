@@ -523,8 +523,9 @@ p{
 
 .modal-icons{
     position: absolute;
-    top: 0;
-    left: 0;
+    top: 50;
+    left: 16px;
+    transform: translateY(-50%);
 }
 
 /* Buttons */
