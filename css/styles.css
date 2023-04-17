@@ -600,6 +600,7 @@ p{
     background-color: #404BBF;
     background-image: url("../images/icons.svg/sprite.svg#icon-check");
     background-size: contain;
+    background-origin: border-box;
 }
 
 .modal-form-check{
