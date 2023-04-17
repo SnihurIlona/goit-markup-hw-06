@@ -578,6 +578,7 @@ p{
 }
 
 .modal-form-comment:focus{
+    outline: none;
     border-color: var(--hover-focus-color);
 }
 
