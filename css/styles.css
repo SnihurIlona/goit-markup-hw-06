@@ -536,6 +536,14 @@ p{
     transform: translateY(-50%);
 }
 
+.modal-form-comment::placeholder{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.1;
+    letter-spacing: 0.04em;
+    color: rgba(46, 47, 66, 0.4);
+}
+
 .modal-btn{
     display: block;
 }
