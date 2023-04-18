@@ -456,14 +456,11 @@ p{
     color: #FFFFFF;
 }
 
-.sbscr-wrapper{
-    display: flex;
-    gap: 80px;
-}
-
 .subscribe-wrapper{
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    align-items: center;
     gap: 24px;
 }
 
