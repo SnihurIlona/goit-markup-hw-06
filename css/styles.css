@@ -495,6 +495,10 @@ p{
     border-radius: 4px;
 }
 
+.footer-plane-icon{
+    margin: 0 auto;
+}
+
 .icon-subscribe{
     fill: #FFFFFF;
     margin-left: 16px;
