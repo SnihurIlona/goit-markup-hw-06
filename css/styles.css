@@ -479,7 +479,6 @@ p{
 }
 
 .subscribe-btn{
-    position: relative;
     min-width: 165px;
     height: 40px;
     font-weight: 500;
@@ -490,13 +489,6 @@ p{
     border: none;
     background-color: #4D5AE5;
     border-radius: 4px;
-}
-
-.icon-sbscr{
-    position: absolute;
-    top: 0;
-    left: 0;
-
 }
 
 /* ............ Modal Window................ */
