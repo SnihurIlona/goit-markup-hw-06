@@ -494,6 +494,7 @@ p{
 
 .icon-sbscr{
     position: absolute;
+    display: block;
 }
 
 /* ............ Modal Window................ */
