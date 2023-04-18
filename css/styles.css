@@ -472,7 +472,14 @@ p{
 }
 
 .subscribe-btn{
-
+    position: relative;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    border-radius: 4px;
 }
 
 /* ............ Modal Window................ */
