@@ -489,6 +489,7 @@ p{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    padding: 8px 24px;
     color: #FFFFFF;
     border: none;
     background-color: #4D5AE5;
@@ -498,7 +499,6 @@ p{
 .icon-subscribe{
     fill: #FFFFFF;
     margin-left: 16px;
-    margin-top: 8px;
 }
 
 /* ............ Modal Window................ */
