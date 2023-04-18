@@ -494,6 +494,7 @@ p{
 
 .icon-subscribe{
     position: absolute;
+    display: block;
 }
 
 /* ............ Modal Window................ */
