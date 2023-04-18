@@ -479,6 +479,7 @@ p{
 }
 
 .subscribe-btn{
+    display: block;
     position: relative;
     min-width: 165px;
     height: 40px;
@@ -496,7 +497,7 @@ p{
     position: absolute;
     top: 0;
     left: 0;
-    
+
 }
 
 /* ............ Modal Window................ */
