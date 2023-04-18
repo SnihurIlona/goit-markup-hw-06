@@ -485,6 +485,10 @@ p{
     border-radius: 4px;
 }
 
+.icon-subscribe{
+    position: absolute;
+}
+
 /* ............ Modal Window................ */
 .backdrop {
     position: fixed;
