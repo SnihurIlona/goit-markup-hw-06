@@ -414,6 +414,9 @@ p{
 
 .footer-nav{
     display: flex;
+}
+
+.footer-nav:not(:last-child){
     gap: 120px;
 }
 
@@ -479,9 +482,6 @@ p{
 }
 
 .subscribe-btn{
-    display: flex;
-    justify-content: center;
-    align-items: center;
     min-width: 165px;
     height: 40px;
     font-weight: 500;
