@@ -637,6 +637,7 @@ p{
     background-image: url(../images/icon-check.svg);
     background-size: contain;
     background-origin: border-box;
+    background-repeat: no-repeat;
 }
 
 .modal-form-check{
