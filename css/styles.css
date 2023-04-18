@@ -456,6 +456,12 @@ p{
     color: #FFFFFF;
 }
 
+.subscribe-wrapper{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+
 .input-subscribe{
     width: 264px;
     height: 40px;
