@@ -469,6 +469,7 @@ p{
     letter-spacing: 0.04em;
     color: #FFFFFF;
     background-color: #2E2F42;
+    outline: none;
 }
 
 .subscribe-btn{
