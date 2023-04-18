@@ -414,10 +414,14 @@ p{
 
 .footer-nav{
     display: flex;
-    margin-right: 120px;
 }
 
 /* .............Social media............... */
+.social-media{
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
 .footer-social{
     color: #FFFFFF;
     min-width: 96px;
