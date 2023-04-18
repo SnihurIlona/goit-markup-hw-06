@@ -414,10 +414,7 @@ p{
 
 .footer-nav{
     display: flex;
-}
-
-.footer-nav:not(:last-child){
-    gap: 120px;
+    margin-right: 120px;
 }
 
 /* .............Social media............... */
