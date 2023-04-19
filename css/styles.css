@@ -502,9 +502,6 @@ p{
 
 .footer-submit{
     position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 /* ............ Modal Window................ */
