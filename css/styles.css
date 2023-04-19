@@ -483,7 +483,6 @@ p{
 }
 
 .subscribe-btn{
-    position: relative;
     min-width: 165px;
     height: 40px;
     font-weight: 500;
@@ -499,6 +498,12 @@ p{
     position: absolute;
     fill: #FFFFFF;
     margin-left: 16px;
+    margin-bottom: 8px;
+    margin-right: 24px;
+}
+
+.footer-submit{
+    position: relative;
 }
 
 /* ............ Modal Window................ */
