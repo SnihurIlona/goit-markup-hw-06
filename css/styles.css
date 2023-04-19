@@ -483,11 +483,6 @@ p{
 }
 
 .subscribe-btn{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    flex-direction: row;
     position: relative;
     min-width: 165px;
     height: 40px;
@@ -504,7 +499,6 @@ p{
     position: absolute;
     fill: #FFFFFF;
     margin-left: 16px;
-    margin-right: 24px;
 }
 
 /* ............ Modal Window................ */
