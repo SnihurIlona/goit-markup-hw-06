@@ -486,6 +486,7 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: center;
     position: relative;
     min-width: 165px;
     height: 40px;
