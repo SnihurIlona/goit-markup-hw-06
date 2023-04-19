@@ -500,6 +500,10 @@ p{
     margin-left: 16px;
 }
 
+.footer-plane-icon{
+    margin: 0 auto;
+}
+
 /* ............ Modal Window................ */
 .backdrop {
     position: fixed;
