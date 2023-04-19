@@ -487,6 +487,7 @@ p{
     justify-content: center;
     align-items: center;
     text-align: center;
+    flex-direction: row;
     position: relative;
     min-width: 165px;
     height: 40px;
