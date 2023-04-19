@@ -483,13 +483,15 @@ p{
 }
 
 .subscribe-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: relative;
     min-width: 165px;
     height: 40px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
-    margin: auto;
     color: #FFFFFF;
     border: none;
     background-color: #4D5AE5;
