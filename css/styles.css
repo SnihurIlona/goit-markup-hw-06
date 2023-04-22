@@ -198,10 +198,6 @@ p{
     margin-bottom: 8px;
 }
 
-.features-list :not(:last-child){
-    margin-right: 24px;
-}
-
 .icon{
     display: flex;
     justify-content: center;
