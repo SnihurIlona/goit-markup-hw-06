@@ -559,6 +559,14 @@ p{
     background-color: #404BBF;
 }
 
+.close-btn{
+    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.close-btn:active, .close-btn:hover, .close-btn:focus{
+    fill: #FFFFFF;
+}
+
 /* Modal Form */
 
 .modal-text-form{
