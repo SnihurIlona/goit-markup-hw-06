@@ -553,7 +553,7 @@ p{
     background-color: #404BBF;
 }
 
-.modal-button:hover + .btn-close-modal{
+.modal-button:hover + .close-btn{
     fill: #FFFFFF;
 }
 
