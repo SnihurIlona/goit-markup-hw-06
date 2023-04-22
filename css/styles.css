@@ -461,6 +461,12 @@ p{
     color: #FFFFFF;
 }
 
+.subscr-wrapper{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+}
+
 .input-subscribe{
     min-width: 264px;
     height: 40px;
