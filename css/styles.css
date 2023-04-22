@@ -461,12 +461,6 @@ p{
     color: #FFFFFF;
 }
 
-.subscribe-wrapper{
-    display: flex;
-    flex-direction: row;
-    gap: 24px;
-}
-
 .input-subscribe{
     min-width: 264px;
     height: 40px;
@@ -484,6 +478,9 @@ p{
 }
 
 .subscribe-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     min-width: 165px;
     height: 40px;
     font-weight: 500;
@@ -496,13 +493,8 @@ p{
 }
 
 .icon-subscribe{
-    position: absolute;
     fill: #FFFFFF;
     margin-left: 16px;
-}
-
-.footer-submit{
-    position: relative;
 }
 
 /* ............ Modal Window................ */
